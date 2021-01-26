@@ -1,3 +1,3 @@
 #to jest komentarz
-WIDTH = 550
+WIDTH = 1550
 HEIGHT = 550
