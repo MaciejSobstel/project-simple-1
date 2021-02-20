@@ -4,7 +4,7 @@ import random
 import time
 WIDTH = 1280
 HEIGHT = 720
-PALETKA_WIDTH = 150
+PALETKA_WIDTH = 200
 BALL_WIDTH = 48
 STEP = 12
 
